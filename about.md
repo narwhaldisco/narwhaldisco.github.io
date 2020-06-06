@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I'm Nick Ward. Currently a backend software developer working in Toronto for IBM. Professionally I try and make [Db2](https://www.ibm.com/analytics/db2) run fast, but I probably won't talk about that much here.
+I'm Nick Ward. 
+
+Currently a backend software developer working in Toronto for IBM. Professionally I try and make [Db2](https://www.ibm.com/analytics/db2) run fast, but I probably won't talk about that much here.
 
 Trying to learn new things and take on new challenges. I've recently been interested in emulation, javascript, node.js, webassembly, Go, and Rust. 
 
-Outside technology I like punk rock, camping, hiking and cats.
+Outside technology I like pop punk rock music, camping, hiking, tacos and cats.
 
 ### Contact me
 
